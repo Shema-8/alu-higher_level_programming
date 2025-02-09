@@ -1,2 +1,2 @@
 #!/bin/bash
-PYCODE='print("Hello, Python from environment!")' bash -c 'python3 -c "$PYCODE"'
+export PYCODE='print(f"Best School: {88+10}")'
