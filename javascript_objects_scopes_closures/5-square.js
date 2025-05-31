@@ -8,4 +8,4 @@ class Square extends Rectangle {
   }
 }
 
-module.exports = Sq
+module.exports = Square;
